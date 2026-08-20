@@ -1,11 +1,11 @@
 # Thumbtack Clone — White-Label On-Demand Service Marketplace Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxserve.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/thumbtack-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/thumbtack-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/thumbtack-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/thumbtack-clone/#features)
 
-**MXServe** is a production-ready, white-label Thumbtack clone: a complete on-demand service marketplace with user, pro, and admin panels — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Thumbtack clone: a complete on-demand service marketplace with user, pro, and admin panels — delivered with **100% source code ownership** in **6 working days**.
 
 > 🛠️ **See it running before you talk to anyone.** Live user app, pro dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/thumbtack-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 User App | [mas.mimeld.com](https://mas.mimeld.com) | Book, track, pay, rate service pro |
-| 🌐 Web Booking | [mxserve.mimeld.com](https://mxserve.mimeld.com) | Full marketplace experience in browser |
+| 🌐 Web Booking | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full marketplace experience in browser |
 | 🔧 Pro Dashboard | [Solution page → Demo](https://miracuves.com/thumbtack-clone#demo) | Jobs, schedule, earnings, payouts |
 | 🛠️ Admin Console | [Solution page → Demo](https://miracuves.com/thumbtack-clone#demo) | Pros, categories, commissions, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/thumbtack-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/thumbtack-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom on-demand platforms run $80k–$350k and 5–10 months. A proven white-la
 ## 📚 Resources
 
 - 📖 [Thumbtack Clone — Full Solution Page](https://miracuves.com/thumbtack-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does an On-Demand App Cost in 2026?](https://miracuves.com/thumbtack-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Thumbtack Clone Script in 2026](https://miracuves.com/thumbtack-clone/blog/) features, pricing & launch guide
-- 🧠 [Multi-Category Marketplace Mechanics](https://miracuves.com/thumbtack-clone/blog/) services taxonomy, take rates
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/thumbtack-clone/facts/) every claim we make, verified
+- 💰 [How Much Does an On-Demand App Cost in 2026?](https://miracuves.com/thumbtack-clone#features) pricing breakdown & what's included
+- 📝 [Best Thumbtack Clone Script in 2026](https://miracuves.com/thumbtack-clone#features) features, pricing & launch guide
+- 🧠 [Multi-Category Marketplace Mechanics](https://miracuves.com/thumbtack-clone#features) services taxonomy, take rates
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/thumbtack-clone#faq) every claim we make, verified
+- 💻 [Thumbtack Clone — Technical Stack](https://miracuves.com/thumbtack-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Thumbtack Clone — How It Works / User Flow](https://miracuves.com/thumbtack-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom on-demand platforms run $80k–$350k and 5–10 months. A proven white-la
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/thumbtack-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/thumbtack-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: thumbtack clone, thumbtack clone script, on-demand, local services, home services, white label Thumbtack, service marketplace, Flutter on-demand, Node.js marketplace*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Thumbtack Clone
-{MX_NAME}         MXServe
+{MX_NAME}         MXDemo
 {CATEGORY}        On-Demand Service Marketplace Platform
-{DEMO_WEB}        mxserve.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $2,899
 {SLUG}            thumbtack-clone
 {SOLUTION_URL}    https://miracuves.com/thumbtack-clone/
